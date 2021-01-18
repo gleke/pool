@@ -1,3 +1,3 @@
-module github.com/hexya-erp/pool
+module github.com/gleke/pool
 
-go 1.13
+go 1.15
